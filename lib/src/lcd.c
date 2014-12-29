@@ -226,3 +226,4 @@ void lcd_clear_segment(uint8_t num_segments, char loc)
 
     return;
 }
+
