@@ -1,4 +1,5 @@
-D :-
+/* Hardware config
+LCD :-
 Control port = PORTC
 RS-> PC3, RW-> PC4, EN-> PC5
 Data port = PORTB
