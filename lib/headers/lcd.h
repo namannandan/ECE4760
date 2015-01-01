@@ -1,4 +1,4 @@
-fndef LCD_H_INCLUDED
+#ifndef LCD_H_INCLUDED
 #define LCD_H_INCLUDED
 
 /*include avr/pgmspace.h so that when lcd.h is included in main,
