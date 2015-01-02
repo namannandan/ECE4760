@@ -4,7 +4,7 @@
 
 
 **Lab1 :- Human reaction time tester**
-  * Description - A reaction time measurement device which expects the user to press a button as soon as an led lights up. The shortest reaction time is stored in EEPROM. Everytime the the user tests his/her reaction time, the current reaction time is recorded and the high score (shortest reaction time) is displayed on the lcd. The system also warns the user of cheating if he/she pushes the button before the led lights up. 
+  * Description - A reaction time measurement device which expects the user to press a button as soon as an led lights up. The shortest reaction time is stored in EEPROM. Everytime the the user tests his/her reaction time, the current reaction time that is recorded and the high score (shortest reaction time) is displayed on the lcd. The system also warns the user of cheating if he/she pushes the button before the led lights up. 
   * Microcontroller - ATMega8 (8 MHz internal oscillator)
   * Programmer - USBasp
   * [Video demo](https://www.youtube.com/watch?v=nKClmKczyAs)
